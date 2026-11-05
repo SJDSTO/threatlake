@@ -1,7 +1,7 @@
 # ADR-001: Apache Iceberg als Tabellenformat für den Data Lake
 
 Status: angenommen
-Datum: 2026-11-xx
+Datum: 2026-11-05
 
 ## Kontext
 Rohdaten aus vier Quellen sollen vollständig und versioniert aufbewahrt
