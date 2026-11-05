@@ -1,0 +1,11 @@
+.env
+*.tfstate
+*.tfstate.*
+.terraform/
+infra/ansible/inventory.ini
+__pycache__/
+.venv/
+target/
+.idea/
+.vscode/
+.DS_Store
